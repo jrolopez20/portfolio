@@ -1,0 +1,168 @@
+{
+  "main": {
+    "firstName": "Javier",
+    "lastName": "Rodriguez Lopez",
+    "occupation": "Software engineer",
+    "description": "I'm a committed software engineer and full stack developer, always looking for professional challenges. Team player, creative, and quick learner with extensive experience in software development. Excellent interpersonal relationships. Able to work well under stress and use time effectively",
+    "image": "about.jpg",
+    "bio": "I'am a Software Engineer with 12+ years of experience in software development. Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jrolopez20@gmail.com",
+    "phone": "+53 54171247",
+    "address": {
+      "country": "Cuba",
+      "city": "Habana"
+    },
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/jrolopez20",
+        "className": "icon-facebook2"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/javier-rodriguez-lopez-498685105/",
+        "className": "icon-linkedin2"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jrolopez20",
+        "className": "icon-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "There are some ones of my main skills",
+    "education": [
+      {
+        "school": "University of Informatic Sciences, Cuba",
+        "degree": "Computer Software Engineering",
+        "graduated": "September 2005 - July 2010",
+        "description": "I really enjoy all the time that I spent at this school."
+      },
+      {
+        "school": "Alliance Française de la Havane",
+        "degree": "Studies of French Language (B1)",
+        "graduated": "September 2011 - August 2014",
+        "description": "The study of fereign laguages teaches and encourages respect for other peoples, it helps break barriers. I dicided learn a foreign language because it opens up a world of job opportunities"
+      }
+    ],
+    "experience": [
+      {
+        "id": 1,
+        "company": "University of Informatic Sciences",
+        "title": "Junior Full Stack Developer",
+        "years": "September 2010 - November 2011",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "id": 2,
+        "company": "University of Informatic Sciences",
+        "title": "Senior Full Stack Developer",
+        "years": "November 2011 - March 2015",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "id": 3,
+        "company": "Yagé, a Marketing Company (Quito, Ecuador)",
+        "title": "Front End Developer",
+        "years": "April 2015 - October 2015",
+        "description": "I worked as Front End Developer, turning Photoshop and Ilustrator designs into dynamic page including Javascript and CSS animations. Using HTML5, CSS3, Bootstrap, Jquery, AngularJs, Angular Material, Parallax technique and PHP."
+      },
+      {
+        "id": 4,
+        "company": "Freelance",
+        "title": "Full Stack Freelance Developer",
+        "years": "November 2015 - March 2018",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "id": 5,
+        "company": "Opdomun",
+        "title": "Co-Founder and CTO at Opdomun",
+        "years": "March 2018 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "100"
+      },
+      {
+        "name": "CSS3, SASS, Stylus",
+        "level": "90"
+      },
+      {
+        "name": "Javascript",
+        "level": "90"
+      },
+      {
+        "name": "PHP",
+        "level": "90"
+      },
+      {
+        "name": "VueJs",
+        "level": "80"
+      },
+      {
+        "name": "Angular",
+        "level": "65"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60"
+      },
+      {
+        "name": "JQuery",
+        "level": "85"
+      },
+      {
+        "name": "Git",
+        "level": "87"
+      },
+      {
+        "name": "Linux",
+        "level": "80"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Opdomun",
+        "category": "Website",
+        "description": "A platform for sales of houses in Cuba",
+        "image": "opdomun-preview.jpg",
+        "url": "https:/opdomun.com"
+      },
+      {
+        "title": "Tic Tac Toe",
+        "category": "Game",
+        "description": "A classic tic tac toe game showing the power of VueJs framework",
+        "image": "tic-tac-toe-preview.jpg",
+        "url": " https://github.com/jrolopez20/tic-tac-toe"
+      },
+      {
+        "title": "My Resume Website",
+        "category": "Website",
+        "description": "A React based resume website",
+        "image": "portfolio-preview.jpg",
+        "url": "https://github_id.github.io/github_repo"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
