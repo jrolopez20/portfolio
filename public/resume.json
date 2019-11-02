@@ -16,11 +16,6 @@
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/jrolopez20",
-        "className": "icon-facebook2"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/javier-rodriguez-lopez-498685105/",
         "className": "icon-linkedin2"
