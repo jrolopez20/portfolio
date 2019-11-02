@@ -26,6 +26,13 @@ class About extends Component {
                       <span><i className="icon-mail5"></i> {email}</span>&nbsp;&nbsp;&nbsp;
                       <span><i className="icon-phone-outline"></i> {phone}</span>
                     </p>
+
+                    <h3 className="">Languages</h3>
+                    <ul>
+                      <li>Spanish (Native)</li>
+                      <li>English</li>
+                      <li>French</li>
+                    </ul>
                   </div>
                 </div>
               </div>

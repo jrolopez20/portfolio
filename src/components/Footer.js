@@ -4,6 +4,8 @@ class Footer extends Component {
 
   render() {
     if (this.props.data) {
+      var email = this.props.data.email;
+      var phone = this.props.data.phone;
       var networks = this.props.data.social.map(function (network) {
         return (
           <li key={network.name}>
@@ -17,6 +19,10 @@ class Footer extends Component {
 
     return (
       <footer>
+        <div className="contact-info text-center">
+          <span><i className="icon-mail5"></i> {email}</span>&nbsp;&nbsp;&nbsp;
+          <span><i className="icon-phone-outline"></i> {phone}</span>
+        </div>
         <div className="colorlib-footer">
           <ul>
             {networks}

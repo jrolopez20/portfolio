@@ -37,12 +37,12 @@
     "education": [
       {
         "school": "University of Informatic Sciences, Cuba",
-        "degree": "Computer Software Engineering",
+        "degree": "(B.S.) Computer Software Engineering",
         "graduated": "September 2005 - July 2010",
-        "description": "I really enjoy all the time that I spent at this school."
+        "description": "I really enjoy all the time that I spent at the university."
       },
       {
-        "school": "Alliance Française de la Havane",
+        "school": "Alliance Française de la Havane, Cuba",
         "degree": "Studies of French Language (B1)",
         "graduated": "September 2011 - August 2014",
         "description": "The study of fereign laguages teaches and encourages respect for other peoples, it helps break barriers. I dicided learn a foreign language because it opens up a world of job opportunities"
@@ -54,14 +54,14 @@
         "company": "University of Informatic Sciences",
         "title": "Junior Full Stack Developer",
         "years": "September 2010 - November 2011",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description": "That was my first job."
       },
       {
         "id": 2,
         "company": "University of Informatic Sciences",
         "title": "Senior Full Stack Developer",
         "years": "November 2011 - March 2015",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description": "Create complex web application with the following stack of technologies: ExtJs (Sencha) for frontend UI, on backend PHP with Zend Framework and PostgreSQL as Database Management System. At this period I trained 10+ new developers."
       },
       {
         "id": 3,
@@ -75,14 +75,14 @@
         "company": "Freelance",
         "title": "Full Stack Freelance Developer",
         "years": "November 2015 - March 2018",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description": "During this period I have worked as freelance with diferent stack of technologies sush as Wordpress, Symfony, AngularJs, Jquery, VueJs, Quasar Framework, MySql, PostgreSql, SQlite and SQL Server. All this has allowed me to create the ability to change, and adapt from one technology to another without much effort."
       },
       {
         "id": 5,
         "company": "Opdomun",
         "title": "Co-Founder and CTO at Opdomun",
         "years": "March 2018 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description": "Co-founder of the project together with the architect Irasel Ulacias. I have developed this system with AdonisJs, it's a Node.js MVC framework. It offers a stable eco-system to write web applications so that you can focus on business needs."
       }
     ],
     "skills": [

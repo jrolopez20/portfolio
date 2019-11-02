@@ -21,7 +21,7 @@ class Education extends Component {
             </div>
           </article>
         )
-      })
+      }).reverse()
     }
 
     return (

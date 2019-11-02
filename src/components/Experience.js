@@ -12,7 +12,7 @@ class Experience extends Component {
                 <i className="icon-ribbon2"></i>
               </div>
               <div className="timeline-label">
-                <h2><a href="#">{item.title}</a> <span>{item.years}</span>
+                <h2>{item.title} <span>{item.years}</span>
                   <div><i>{item.company}</i></div>
                 </h2>
                 <span></span>
@@ -21,7 +21,7 @@ class Experience extends Component {
             </div>
           </article>
         )
-      })
+      }).reverse()
     }
 
     return (
