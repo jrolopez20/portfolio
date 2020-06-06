@@ -82,16 +82,16 @@
     ],
     "skills": [
       {
-        "name": "HTML5",
+        "name": "HTML5, CSS3, SASS, Stylus",
         "level": "100"
       },
       {
-        "name": "CSS3, SASS, Stylus",
-        "level": "90"
+        "name": "Javascript",
+        "level": "100"
       },
       {
-        "name": "Javascript",
-        "level": "90"
+        "name": "TypeScript",
+        "level": "95"
       },
       {
         "name": "PHP",
@@ -103,7 +103,7 @@
       },
       {
         "name": "Angular",
-        "level": "65"
+        "level": "90"
       },
       {
         "name": "ReactJs",
@@ -111,15 +111,23 @@
       },
       {
         "name": "JQuery",
-        "level": "85"
+        "level": "90"
       },
       {
         "name": "Git",
-        "level": "87"
+        "level": "85"
       },
       {
         "name": "Linux",
         "level": "80"
+      },
+      {
+        "name": "Symfony",
+        "level": "75"
+      },
+      {
+        "name": "Laravel",
+        "level": "70"
       }
     ]
   },
