@@ -18,7 +18,7 @@ class App extends Component {
   }
 
   getResumeData() {
-    fetch("/resume.json")
+    fetch("resume.json")
       .then(res => res.json())
       .then(
         (data) => {
