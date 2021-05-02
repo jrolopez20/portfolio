@@ -3,7 +3,7 @@
     "firstName": "Javier",
     "lastName": "Rodriguez Lopez",
     "occupation": "Software engineer",
-    "description": "I'm a committed software engineer and full stack developer, always looking for professional challenges. Team player, creative, and quick learner with extensive experience in software development. Excellent interpersonal relationships. Able to work well under stress and use time effectively",
+    "description": "I'm a committed software engineer and fullstack developer, always looking for professional challenges. Team player, creative, and quick learner with extensive experience in software development. Excellent interpersonal relationships. Able to work well under stress and use time effectively",
     "image": "about.jpg",
     "bio": "I'am a Software Engineer with 12+ years of experience in software development. Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -47,14 +47,14 @@
       {
         "id": 1,
         "company": "University of Informatic Sciences",
-        "title": "Junior Full Stack Developer",
+        "title": "Junior Fullstack Developer",
         "years": "September 2010 - November 2011",
         "description": "That was my first job."
       },
       {
         "id": 2,
         "company": "University of Informatic Sciences",
-        "title": "Senior Full Stack Developer",
+        "title": "Senior Fullstack Developer",
         "years": "November 2011 - March 2015",
         "description": "Create complex web application with the following stack of technologies: ExtJs (Sencha) for frontend UI, on backend PHP with Zend Framework and PostgreSQL as Database Management System. At this period I trained 10+ new developers."
       },
@@ -68,7 +68,7 @@
       {
         "id": 4,
         "company": "Freelance",
-        "title": "Full Stack Freelance Developer",
+        "title": "Fullstack Freelance Developer",
         "years": "November 2015 - March 2018",
         "description": "During this period I have worked as freelance with diferent stack of technologies sush as Wordpress, Symfony, AngularJs, Jquery, VueJs, Quasar Framework, MySql, PostgreSql, SQlite and SQL Server. All this has allowed me to create the ability to change, and adapt from one technology to another without much effort."
       },
@@ -78,6 +78,13 @@
         "title": "Co-Founder and CTO at Opdomun",
         "years": "March 2018 - Present",
         "description": "Co-founder of the project together with the architect Irasel Ulacias. I have developed this system with AdonisJs, it's a Node.js MVC framework. It offers a stable eco-system to write web applications so that you can focus on business needs."
+      },
+      {
+        "id": 5,
+        "company": "Saona Development",
+        "title": "Senior Fullstack Developer",
+        "years": "January 2019 - Present",
+        "description": "Development of Employee Order Stores for <a href=\"https://www.jnj.com\">Johnson&Johnson</a>'s employees in Spain and France."
       }
     ],
     "skills": [
@@ -153,6 +160,13 @@
         "description": "A React based resume website",
         "image": "portfolio-preview.jpg",
         "url": "https://github_id.github.io/github_repo"
+      },
+      {
+        "title": "Dac.a Estudio",
+        "category": "Website",
+        "description": "Portfolio made with Wordpress for Dac.A Studio, an architecture team based in Spain.",
+        "image": "studiodac-preview.jpg",
+        "url": "https://studiodac.es"
       }
     ]
   },

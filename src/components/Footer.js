@@ -19,16 +19,16 @@ class Footer extends Component {
 
     return (
       <footer>
-        <div className="contact-info text-center">
-          <span><i className="icon-mail5"></i> {email}</span>&nbsp;&nbsp;&nbsp;
-          <span><i className="icon-phone-outline"></i> {phone}</span>
-        </div>
+        {/*<div className="contact-info text-center">*/}
+        {/*  <span><i className="icon-mail5"></i> {email}</span>&nbsp;&nbsp;&nbsp;*/}
+        {/*  <span><i className="icon-phone-outline"></i> {phone}</span>*/}
+        {/*</div>*/}
         <div className="colorlib-footer">
           <ul>
             {networks}
           </ul>
         </div>
-        <p>Copyright ©2019 Javier Rodriguez</p>
+        <p>Copyright ©2021 Javier Rodriguez Lopez</p>
       </footer >
     )
   }
