@@ -7,8 +7,8 @@
     "image": "about.jpg",
     "bio": "I'am a Software Engineer with 12+ years of experience in software development. Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "jrolopez20@gmail.com",
-    "phone": "+53 54171247",
+    "email": "*",
+    "phone": "*",
     "address": {
       "country": "Cuba",
       "city": "Habana"
@@ -28,7 +28,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "There are some ones of my main skills",
+    "skillmessage": "Some ones of my main skills",
     "education": [
       {
         "school": "University of Informatic Sciences, Cuba",
@@ -40,7 +40,7 @@
         "school": "Alliance Française de la Havane, Cuba",
         "degree": "Studies of French Language (B1)",
         "graduated": "September 2011 - August 2014",
-        "description": "The study of fereign laguages teaches and encourages respect for other peoples, it helps break barriers. I dicided learn a foreign language because it opens up a world of job opportunities"
+        "description": "The study of foreign languages teaches and encourages respect for other peoples, it helps break barriers. I decided to learn a foreign language because it opens up a world of job opportunities"
       }
     ],
     "experience": [
@@ -76,15 +76,22 @@
         "id": 5,
         "company": "Opdomun",
         "title": "Co-Founder and CTO at Opdomun",
-        "years": "March 2018 - Present",
-        "description": "Co-founder of the project together with the architect Irasel Ulacias. I have developed this system with AdonisJs, it's a Node.js MVC framework. It offers a stable eco-system to write web applications so that you can focus on business needs."
+        "years": "March 2018 - November 2021",
+        "description": "Co-founder of the project together with the architect <a href=\"https://www.linkedin.com/in/irasel-ulacia-8a890017a\" target=\"_blank\">Irasel Ulacias</a>. I have developed this system with AdonisJs, it's a Node.js MVC framework. It offers a stable eco-system to write web applications so that you can focus on business needs."
       },
       {
         "id": 5,
         "company": "Saona Development",
         "title": "Senior Fullstack Developer",
         "years": "January 2019 - Present",
-        "description": "Development of Employee Order Stores for <a href=\"https://www.jnj.com\">Johnson&Johnson</a>'s employees in Spain and France."
+        "description": "Development of Employee Order Stores for <a href=\"https://www.jnj.com\" target=\"_blank\">Johnson&Johnson</a>'s employees in Spain, France and Ireland."
+      },
+      {
+        "id": 6,
+        "company": "Innovadeluxe",
+        "title": "Team Leader",
+        "years": "January 2021 - Present",
+        "description": "I started working as fullstack engineer building custom ERP system. After a time working as as fullstack developer i was promoted to Team Leader."
       }
     ],
     "skills": [
@@ -145,7 +152,7 @@
         "category": "Website",
         "description": "A platform for sales of houses in Cuba",
         "image": "opdomun-preview.jpg",
-        "url": "https:/opdomun.com"
+        "url": "https://opdomun.com"
       },
       {
         "title": "Tic Tac Toe",
