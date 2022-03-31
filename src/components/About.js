@@ -22,10 +22,7 @@ class About extends Component {
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p><strong>Hi, my name's {fullname}</strong>. {description}.</p>
 
-                    <p className="contact-info text-center">
-                      <span><i className="icon-mail5"></i> {email}</span>&nbsp;&nbsp;&nbsp;
-                      <span><i className="icon-phone-outline"></i> {phone}</span>
-                    </p>
+                    <br/>
 
                     <h3 className="">Languages</h3>
                     <ul>

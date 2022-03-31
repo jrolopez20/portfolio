@@ -3,9 +3,9 @@ import React, { Component } from 'react'
 class Footer extends Component {
 
   render() {
+    const currentYear = (new Date()).getFullYear();
+
     if (this.props.data) {
-      var email = this.props.data.email;
-      var phone = this.props.data.phone;
       var networks = this.props.data.social.map(function (network) {
         return (
           <li key={network.name}>
@@ -28,7 +28,7 @@ class Footer extends Component {
             {networks}
           </ul>
         </div>
-        <p>Copyright ©2021 Javier Rodriguez Lopez</p>
+        <p>Copyright ©{currentYear} Javier Rodriguez Lopez</p>
       </footer >
     )
   }

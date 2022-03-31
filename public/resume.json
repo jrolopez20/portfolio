@@ -7,8 +7,8 @@
     "image": "about.jpg",
     "bio": "I'am a Software Engineer with 12+ years of experience in software development. Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "jrolopez20@gmail.com",
-    "phone": "+53 54171247",
+    "email": "*",
+    "phone": "*",
     "address": {
       "country": "Cuba",
       "city": "Habana"
@@ -145,7 +145,7 @@
         "category": "Website",
         "description": "A platform for sales of houses in Cuba",
         "image": "opdomun-preview.jpg",
-        "url": "https:/opdomun.com"
+        "url": "https://opdomun.com"
       },
       {
         "title": "Tic Tac Toe",
